@@ -37,14 +37,14 @@ Soy Kent, principiante en CyberSeguridad y Programacion, tengo conocimientos en 
 
 <p align="center">
   <a href="https://github.com/gatomo-oficial">
-    <img alt="Github Followers" src="https://img.shields.io/github/followers/hashesterminal?logo=github&style=for-the-badge" />
+    <img alt="Github Followers" src="https://img.shields.io/github/followers/KentMGR?logo=github&style=for-the-badge" />
   </a>
-  <a href="https://discord.gg/https://discord.gg/h7E78a62U5">
+  <a href="https://discord.gg/kSXER4Bj2d5">
     <img alt="Discord" src="https://img.shields.io/discord/685949311443271744?logo=Discord&style=for-the-badge" />
   </a>   
    <p align="center">
-    <a href="https://github.com/hashesterminal">
-    <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=hashesterminal.hashesterminal" />
+    <a href="https://github.com/KentMR">
+    <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=KentMGR.KentMGR" />
   </a>
    </p>
 </p>
