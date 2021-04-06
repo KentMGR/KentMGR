@@ -36,14 +36,14 @@ Soy Kent, principiante en CyberSeguridad y Programacion, tengo conocimientos en 
 
 
 <p align="center">
-  <a href="https://github.com/gatomo-oficial">
+  <a href="https://github.com/KentMGR">
     <img alt="Github Followers" src="https://img.shields.io/github/followers/KentMGR?logo=github&style=for-the-badge" />
   </a>
-  <a href="https://discord.gg/kSXER4Bj2d5">
+  <a href="https://discord.gg/kSXER4Bj2d">
     <img alt="Discord" src="https://img.shields.io/discord/685949311443271744?logo=Discord&style=for-the-badge" />
   </a>   
    <p align="center">
-    <a href="https://github.com/KentMR">
+    <a href="https://github.com/KentMGR">
     <img alt="Visitor Badge" src="https://visitor-badge.laobi.icu/badge?page_id=KentMGR.KentMGR" />
   </a>
    </p>
