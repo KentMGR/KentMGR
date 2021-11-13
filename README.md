@@ -5,7 +5,7 @@ Soy Kent, principiante en CyberSeguridad y Programacion, tengo conocimientos en 
 <br />
 
    ## Redes Sociales!
-   - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center">  [Kent#0070](https://discord.gg/kSXER4Bj2d)
+   - <img src="https://simpleicons.org/icons/discord.svg" alt="Discord" width="32" align="center">  [Kent#0069](https://discord.gg/kSXER4Bj2d)
    - <img src="https://simpleicons.org/icons/twitter.svg" alt="Twitter" width="32" align="center">  [@KentLWL](https://twitter.com/KentLWL)
    <br />
    
